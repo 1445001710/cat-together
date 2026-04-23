@@ -1,0 +1,153 @@
+<resources>
+    <string name="app_name">猫咪伴侣</string>
+
+    <!-- 通用 -->
+    <string name="confirm">确认</string>
+    <string name="cancel">取消</string>
+    <string name="save">保存</string>
+    <string name="delete">删除</string>
+    <string name="edit">编辑</string>
+    <string name="loading">加载中…</string>
+    <string name="retry">重试</string>
+    <string name="no_data">暂无数据</string>
+
+    <string name="search_hint">搜索</string>
+    <string name="search_cats_hint">搜索猫咪</string>
+
+    <!-- 登录注册 -->
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+    <string name="username">账号</string>
+    <string name="username_hint">请输入账号</string>
+    <string name="password">密码</string>
+    <string name="password_hint">请输入密码</string>
+    <string name="nickname">昵称</string>
+    <string name="nickname_hint">请输入昵称</string>
+
+    <!-- 首页 -->
+    <string name="home">首页</string>
+    <string name="my_cats">我的猫咪</string>
+    <string name="add_cat">添加猫咪</string>
+    <string name="no_cat">还没有猫咪哦~</string>
+    <string name="add_first_cat">添加第一只猫咪</string>
+
+    <!-- 猫咪档案 -->
+    <string name="cat_profile">猫咪档案</string>
+    <string name="cat_name">猫咪名字</string>
+    <string name="breed">品种</string>
+    <string name="gender">性别</string>
+    <string name="birthday">生日</string>
+    <string name="color">毛色</string>
+    <string name="weight">体重</string>
+    <string name="height">身高</string>
+    <string name="upload_avatar">上传头像</string>
+    <string name="male">公</string>
+    <string name="female">母</string>
+    <string name="unknown">未知</string>
+
+    <!-- 健康 -->
+    <string name="add_record">添加记录</string>
+    <string name="edit_record">编辑记录</string>
+    <string name="select_record_type">选择记录类型</string>
+    <string name="input_value">请输入数值</string>
+    <string name="input_note">请输入备注（选填）</string>
+    <string name="record_type">记录类型</string>
+    <string name="record_date">记录日期</string>
+    <string name="confirm_delete">确认删除</string>
+    <string name="delete_record">确定要删除这条记录吗？</string>
+    <string name="health">健康</string>
+    <string name="health_record">健康记录</string>
+    <string name="record_weight">记录体重</string>
+    <string name="record_height">记录身高</string>
+    <string name="weight_history">体重变化</string>
+    <string name="weight_chart">体重曲线</string>
+    <string name="unit_kg">kg</string>
+    <string name="unit_cm">cm</string>
+
+    <!-- 饮食 -->
+    <string name="diet">饮食</string>
+    <string name="diet_record">饮食记录</string>
+    <string name="water">喝水</string>
+    <string name="food">猫粮</string>
+    <string name="snack">零食</string>
+    <string name="treat">猫条</string>
+    <string name="feeding_reminder">喂食提醒</string>
+    <string name="add_reminder">添加提醒</string>
+    <string name="remind_time">提醒时间</string>
+    <string name="remind_content">提醒内容</string>
+    <string name="diet_stats">饮食统计</string>
+    <string name="today">今天</string>
+    <string name="week">本周</string>
+    <string name="month">本月</string>
+
+    <!-- 相册 -->
+    <string name="album">相册</string>
+    <string name="photo">照片</string>
+    <string name="video">视频</string>
+    <string name="upload">上传</string>
+    <string name="share">分享</string>
+    <string name="choose_photo">选择照片</string>
+    <string name="choose_video">选择视频</string>
+
+    <!-- 个人中心 -->
+    <string name="profile">个人中心</string>
+    <string name="my_profile">我的</string>
+    <string name="settings">设置</string>
+    <string name="logout">退出登录</string>
+    <string name="logout_confirm">确定要退出登录吗？</string>
+    <string name="recharge_center">充值中心</string>
+    <string name="user_manual">使用手册</string>
+    <string name="about">关于</string>
+    <string name="version">版本</string>
+
+    <!-- 社交 -->
+    <string name="social">社交圈</string>
+    <string name="post">发布</string>
+    <string name="publish_post">发布动态</string>
+    <string name="say_something">说点什么…</string>
+    <string name="like">点赞</string>
+    <string name="comment">评论</string>
+    <string name="share_to_social">分享到社交圈</string>
+    <string name="hot">热门</string>
+    <string name="follow">关注</string>
+    <string name="followers">粉丝</string>
+    <string name="following">关注</string>
+
+    <!-- AI -->
+    <string name="ai_customer_service">AI客服</string>
+    <string name="ai_cat_speak">AI识别猫咪说话</string>
+    <string name="hold_to_record">长按录音</string>
+    <string name="release_to_stop">松开结束</string>
+    <string name="recording">录音中…</string>
+    <string name="ai_translating">AI翻译中…</string>
+    <string name="ai_steward">AI管家</string>
+    <string name="ask_ai">向AI提问</string>
+
+    <!-- 会员 -->
+    <string name="member">会员</string>
+    <string name="vip">VIP</string>
+    <string name="upgrade_vip">开通会员</string>
+    <string name="vip_features">解锁AI高级功能</string>
+
+    <!-- 签到 -->
+    <string name="check_in">签到</string>
+    <string name="check_in_success">签到成功！</string>
+    <string name="points">积分</string>
+    <string name="cat_treat">猫条</string>
+    <string name="fish_dried">鱼干</string>
+    <string name="mall">商城</string>
+    <string name="exchange">兑换</string>
+
+    <!-- 提示 -->
+    <string name="phone_error">请输入正确的手机号</string>
+    <string name="code_error">请输入验证码</string>
+    <string name="nickname_error">请输入昵称</string>
+    <string name="input_complete_info">请完善信息</string>
+    <string name="save_success">保存成功</string>
+    <string name="delete_confirm">确定要删除吗？</string>
+    <string name="network_error">登录状态失效，请重新登录</string>
+    <string name="permission_denied">权限被拒绝</string>
+    <string name="permission_camera">需要相机权限才能拍照</string>
+    <string name="permission_storage">需要存储权限才能访问相册</string>
+    <string name="permission_audio">需要录音权限才能使用此功能</string>
+</resources>

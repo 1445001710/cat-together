@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 导航栏颜色 - 深色渐变 -->
+    <color name="nav_header_background">#8B7355</color>
+    <color name="status_bar_background">#8B7355</color>
+    <color name="nav_text">#FFFFFF</color>
+    <color name="nav_gradient_start">#8B7355</color>
+    <color name="nav_gradient_end">#7A6548</color>
+
+    <!-- 搜索栏 -->
+    <color name="search_bar_background">#FFFFFF</color>
+    <color name="search_icon">#999999</color>
+    <color name="search_hint">#CCCCCC</color>
+
+    <!-- 背景色 -->
+    <color name="background_page">#F5F5F5</color>
+    <color name="background_card">#FFFFFF</color>
+    <color name="background_milk">#F5F5F5</color>
+    <color name="surface_white">#FFFFFF</color>
+
+    <!-- 文字色 -->
+    <color name="text_primary">#1A1A1A</color>
+    <color name="text_secondary">#666666</color>
+    <color name="text_hint">#999999</color>
+
+    <!-- 底部导航 -->
+    <color name="bottom_nav_background">#FFFFFF</color>
+    <color name="bottom_nav_active">#1A1A1A</color>
+    <color name="bottom_nav_inactive">#999999</color>
+
+    <!-- 分割线 -->
+    <color name="divider">#E5E5E5</color>
+    <color name="divider_light">#F0F0F0</color>
+    <color name="divider_color">#E5E5E5</color>
+    <color name="surface_glass">#F8F8F8</color>
+
+    <!-- 功能色 -->
+    <color name="error">#F44336</color>
+    <color name="warning">#FFC107</color>
+    <color name="success">#4CAF50</color>
+    <color name="info">#2196F3</color>
+
+    <!-- 旧颜色保留 -->
+    <color name="primary_pink">#FFB7B2</color>
+    <color name="primary_pink_dark">#FF9E99</color>
+    <color name="secondary_mint">#B5EAD7</color>
+    <color name="accent_peach">#FFDAC1</color>
+    <color name="text_primary_old">#2D3436</color>
+    <color name="text_secondary_old">#636E72</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

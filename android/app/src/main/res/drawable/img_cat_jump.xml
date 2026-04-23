@@ -1,0 +1,69 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="60dp"
+    android:height="45dp"
+    android:viewportWidth="60"
+    android:viewportHeight="45">
+
+    <!-- Body stretched -->
+    <path
+        android:fillColor="#D4B896"
+        android:pathData="M20,30 Q8,26 8,20 Q8,12 20,12 L40,12 Q52,12 52,20 Q52,26 40,30 Z"/>
+
+    <!-- Belly -->
+    <path
+        android:fillColor="#E8D4BC"
+        android:pathData="M22,29 Q14,29 14,24 Q14,18 22,18 L38,18 Q46,18 46,24 Q46,29 38,29 Z"/>
+
+    <!-- Head -->
+    <path
+        android:fillColor="#D4B896"
+        android:pathData="M45,26 Q45,12 52,12 Q59,12 59,18 Q59,26 52,28 Q48,28 45,26 Z"/>
+
+    <!-- Ear -->
+    <path
+        android:fillColor="#D4B896"
+        android:pathData="M51,12 L53,3 L57,10 Z"/>
+    <path
+        android:fillColor="#F5C6C6"
+        android:pathData="M52,11 L53,5 L55,10 Z"/>
+
+    <!-- Eye - excited -->
+    <path
+        android:fillColor="#2D2D2D"
+        android:pathData="M52,17 A2.5,3 0 1,1 52.01,17 Z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M51,16 A1,1.5 0 1,1 51.01,16 Z"/>
+
+    <!-- Nose -->
+    <path
+        android:fillColor="#FFB5B5"
+        android:pathData="M58,19 L56,21 L58,21 Z"/>
+
+    <!-- Whiskers -->
+    <path
+        android:strokeWidth="0.8"
+        android:strokeColor="#C4A882"
+        android:fillColor="#00000000"
+        android:pathData="M59,18 L65,17 M59,20 L65,21"/>
+
+    <!-- Tail curved up high -->
+    <path
+        android:fillColor="#D4B896"
+        android:pathData="M8,20 Q0,8 10,2 Q16,0 15,8 Q14,14 12,18 Z"/>
+
+    <!-- Legs tucked under body -->
+    <path
+        android:fillColor="#D4B896"
+        android:pathData="M22,28 L20,35 L24,35 L26,30 Z"/>
+    <path
+        android:fillColor="#D4B896"
+        android:pathData="M36,28 L38,35 L42,35 L38,30 Z"/>
+    <path
+        android:fillColor="#C4A882"
+        android:pathData="M20,34 L24,34 L24,36 L20,36 Z"/>
+    <path
+        android:fillColor="#C4A882"
+        android:pathData="M38,34 L42,34 L42,36 L38,36 Z"/>
+
+</vector>

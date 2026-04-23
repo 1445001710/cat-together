@@ -1,0 +1,68 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="60dp"
+    android:height="40dp"
+    android:viewportWidth="60"
+    android:viewportHeight="40">
+
+    <!-- Body -->
+    <path
+        android:fillColor="#D4B896"
+        android:pathData="M15,25 Q5,22 5,18 Q5,12 15,12 L45,12 Q55,12 55,18 Q55,22 45,25 Z"/>
+
+    <!-- Belly -->
+    <path
+        android:fillColor="#E8D4BC"
+        android:pathData="M18,24 Q12,24 12,20 Q12,16 18,16 L42,16 Q48,16 48,20 Q48,24 42,24 Z"/>
+
+    <!-- Head -->
+    <path
+        android:fillColor="#D4B896"
+        android:pathData="M48,22 Q48,10 55,10 Q62,10 62,16 Q62,22 55,24 Q52,24 48,22 Z"/>
+
+    <!-- Ear -->
+    <path
+        android:fillColor="#D4B896"
+        android:pathData="M54,10 L56,2 L60,8 Z"/>
+    <path
+        android:fillColor="#F5C6C6"
+        android:pathData="M55,9 L56,4 L58,8 Z"/>
+
+    <!-- Eye -->
+    <path
+        android:fillColor="#2D2D2D"
+        android:pathData="M56,14 A3,3 0 1,1 56.01,14 Z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M55,13 A1.5,1.5 0 1,1 55.01,13 Z"/>
+
+    <!-- Nose -->
+    <path
+        android:fillColor="#FFB5B5"
+        android:pathData="M61,16 L59,18 L61,18 Z"/>
+
+    <!-- Whiskers -->
+    <path
+        android:strokeWidth="0.8"
+        android:strokeColor="#C4A882"
+        android:fillColor="#00000000"
+        android:pathData="M62,15 L68,14 M62,17 L68,17"/>
+
+    <!-- Tail up -->
+    <path
+        android:fillColor="#D4B896"
+        android:pathData="M5,18 Q-2,12 3,5 Q6,2 8,8 Q9,14 8,18 Z"/>
+
+    <!-- Front leg lifted -->
+    <path
+        android:fillColor="#D4B896"
+        android:pathData="M40,24 L42,30 L44,28 L42,24 Z"/>
+
+    <!-- Back leg walking (back) -->
+    <path
+        android:fillColor="#D4B896"
+        android:pathData="M18,24 L20,35 L22,35 L20,26 Z"/>
+    <path
+        android:fillColor="#C4A882"
+        android:pathData="M19,35 L23,35 L23,37 L19,37 Z"/>
+
+</vector>
